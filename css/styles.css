@@ -12,3 +12,15 @@ div{
 h1{
     margin-top: 0px;
 }
+
+/******************* FONT RULES *******************/
+
+.center-text {
+    text-align: center;
+}
+
+/** FONT TYPE **/
+
+.vibe-font{
+    font-family: 'Great Vibes', cursive;
+}
